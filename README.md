@@ -13,30 +13,6 @@ A simple Tic-Tac-Toe game implemented using JavaFX, featuring a graphical user i
 * JavaFX SDK (included in modern JDKs)
 * An IDE such as IntelliJ IDEA, Eclipse, or NetBeans (optional but recommended)
 
-## How to Run
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [repository_url]
-    cd [repository_directory]
-    ```
-2.  **Compile and Run the Game:**
-    * **Using an IDE:**
-        * Import the project into your IDE.
-        * Ensure that the JavaFX SDK is correctly configured in your project settings.
-        * Run the `TicTacToyGame.java` file.
-    * **Using the Command Line:**
-        * Navigate to the project's source directory.
-        * Compile the Java files:
-            ```bash
-            javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml tictactoygame/TicTacToyGame.java
-            ```
-            (Replace `/path/to/javafx-sdk/lib` with the actual path to your JavaFX SDK lib directory).
-        * Run the application:
-            ```bash
-            java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml tictactoygame.TicTacToyGame
-            ```
-            (Again, replace `/path/to/javafx-sdk/lib` with your JavaFX SDK path.)
 
 ## Project Structure
 JavaFX-TicTacToe/  
