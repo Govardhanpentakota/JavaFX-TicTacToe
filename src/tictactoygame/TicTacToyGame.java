@@ -14,13 +14,9 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
-/**
- *
- * @author admin
- */
+
 public class TicTacToyGame extends Application {
 
-    //Button btn0 = new Button();
     Button btn1 = new Button();
     Button btn2 = new Button();
     Button btn3 = new Button();
