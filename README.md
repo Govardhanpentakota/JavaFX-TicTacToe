@@ -70,16 +70,3 @@ JavaFX-TicTacToe/
 * The `playGame()` method updates the button's text, adds the cell ID to the player's list, and calls `CheckerWinner()` and `Autoplayer()` methods.
 * The `CheckerWinner()` method checks for winning combinations and displays an alert if a winner is found.
 * The `Autoplayer()` method implements the basic AI opponent, which makes random moves.
-
-## Styling
-
-The `style.css` file defines the styling for the buttons, including their size.
-
-## Improvements
-
-* Implement a more sophisticated AI opponent.
-* Add a "New Game" button.
-* Improve the UI design and styling.
-* Add better win condition checking.
-* Add draw condition checking.
-* Refactor the win checking logic to be more efficient.
